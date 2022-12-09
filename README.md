@@ -42,6 +42,12 @@ https://www.postman.com/
 https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo/related?hl=es
 ```
 
+### Captura de pantalla de la tabla con datos ingresados
+```
+![Image text](https://github.com/r00tsh4rk/crediclub_api/blob/main/img/data.png)
+```
+
+
 ### Problemas de conexión con MySQL en Linux
 ```
 sudo apt-get install libmysqlclient-dev
