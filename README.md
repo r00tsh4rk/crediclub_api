@@ -19,7 +19,7 @@ git clone https://github.com/r00tsh4rk/crediclub_api/
 cd crediclub_api
 ```
 ```
-pip install -r requirements.txt
+pip install -r requeriments.txt
 ```
 
 ### Ejecución de la API
