@@ -6,9 +6,19 @@ Python
 ```
 https://www.python.org/downloads/
 ```
-XAMPP para servidor de base de datos.
+## Cargar base de datos
+### Descargar servidor de base de datos XAMPP
 ```
 https://www.apachefriends.org/download.html
+```
+### Cargar script 
+```
+1. Abrir el cliente phpMyAdmin desde el navegador: http://localhost/phpmyadmin/
+2. Click en "Nueva"
+3. Escribir el nombre de la base de datos: crediclub, clic en crear.
+4. Clic en "Importar".
+5. Buscar el archivo "crediclub.sql", en la carpeta "sql" del repositorio y cargarlo.
+6. Clic en importar.
 ```
 
 ### Instalación de dependencias
@@ -41,6 +51,12 @@ https://www.postman.com/
 ```
 https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo/related?hl=es
 ```
+### Probar la API 
+```
+Abrir alguno de los clientes REST sugeridos o de su preferencia y colocar la siguiente URL:
+http://127.0.0.1:5000/listar
+```
+
 
 ### Captura de pantalla de la tabla con datos ingresados
 ```
