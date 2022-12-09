@@ -1,13 +1,12 @@
 # API de aprobación de créditos a clientes
-API REST que permite aceptar o rechazar el otorgamiento de un crédito a un cliente|
-Aplicación desarrollada con el lenguaje Python bajo el Framework Flask en backend e integración de base de datos MySQL
+API REST que permite aceptar o rechazar el otorgamiento de un crédito a un cliente. Fue desarrollada con el lenguaje Python bajo el Framework Flask en backend e integración de base de datos MySQL.
 
 ### Pre - requisitos
 Python
 ```
 https://www.python.org/downloads/
 ```
-XAMPP 
+XAMPP para servidor de base de datos.
 ```
 https://www.apachefriends.org/download.html
 ```
