@@ -44,7 +44,7 @@ https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfg
 
 ### Captura de pantalla de la tabla con datos ingresados
 ```
-![Image text](https://github.com/r00tsh4rk/crediclub_api/blob/main/img/data.png)
+Consultar la carpeta img del presente repositorio.
 ```
 
 
